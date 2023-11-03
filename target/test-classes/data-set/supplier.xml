@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+    <supplier
+              ID_SUPPLIER="1"
+              code="SUP001"
+              label="Supplier 1"
+              supplier_category="CONVENTIONNE">
+    </supplier>
+    <!-- Add more product elements if needed -->
+</dataset>
