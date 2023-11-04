@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8485e34f-a99a-4450-985c-87977dbd6424" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/DevOps_ProjectSpringBootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/DevOps_ProjectSpringBootApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/InvoiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/InvoiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/OperatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/OperatorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/StockController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/SupplierController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/controllers/SupplierController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/InvoiceDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/InvoiceDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/ProductCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Stock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/SupplierCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/entities/SupplierCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/openapi.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/openapi.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/InvoiceDetailRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/InvoiceDetailRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/InvoiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/InvoiceRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/OperatorRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/OperatorRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/ProductRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/StockRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/StockRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/SupplierRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/repositories/SupplierRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/InvoiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/InvoiceServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IInvoiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IInvoiceService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IOperatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IOperatorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IStockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/IStockService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/ISupplierService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/Iservices/ISupplierService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/OperatorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/OperatorServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/StockServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/StockServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/SupplierServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/esprit/devops_project/services/SupplierServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -100,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699048650659</updated>
-      <workItem from="1699048654198" duration="301000" />
+      <workItem from="1699048654198" duration="1547000" />
     </task>
     <servers />
   </component>
